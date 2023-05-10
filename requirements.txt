@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+pylab-sdk
+ipython
+scipy
+nltk
+pymorphy2
+scikit-learn
+gensim
+torch
+torchvision
+pytorch_lightning
+torchmetrics
+pickle
